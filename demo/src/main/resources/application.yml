@@ -43,3 +43,9 @@ spring:
         stat-view-servlet.enabled: true
         stat-view-servlet.login-username: dba
         stat-view-servlet.login-password: dba
+
+elasticsearch:
+  ip: 112.74.115.69
+  port: 9200
+  pool: 2
+
